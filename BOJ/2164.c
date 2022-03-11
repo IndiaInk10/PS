@@ -4,7 +4,7 @@
 
 typedef struct _node {
 	int num;
-	_node* next;
+	struct _node* next;
 } node;
 
 typedef struct _queue {
