@@ -54,5 +54,6 @@
     },
     "files.associations": {
         "iostream": "cpp"
-    }
+    },
+    "cmake.configureOnOpen": true
 }
